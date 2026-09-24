@@ -326,10 +326,10 @@ Explore the deployed version of our Chest Disease Detection by X-ray web applica
 ---
 ## Authors ✨
 <pre>
-Fatma Elzhra ahmed  - Artificial Intelligence Engineering - <b><a href="https://github.com/fatma2123456">fatma2123456</a></b>
+Karim Ehab - Computer Engineering - <b><a href="https://github.com/Karim-Ehab-AI">Karim-Ehab-AI</a></b>
+Fatma Elzhra ahmed - Artificial Intelligence Engineering - <b><a href="https://github.com/fatma2123456">fatma2123456</a></b>
+Hanin Mustafa - Computer Systems Engineering  - <b><a href="https://github.com/HaninMustafa9">HaninMustafa9</a></b>
 Abdelrahman Mohamed - Computer Science Engineering - <b><a href="https://github.com/AbdelrahmanMohamed252">AbdelrahmanMohamed252</a></b>
-Hanin Mustafa  - Computer Systems Engineering  - <b><a href="https://github.com/HaninMustafa9">HaninMustafa9</a></b>
-Karim Ehab   - Communication and computer engineering - <b><a href="https://github.com/Karim-Ehab-AI">Karim-Ehab-AI</a></b>
 Mahmoud Anas - Computer Science - <b><a href="https://github.com/MahmoudAnas046">MahmoudAnas046</a></b>
  
 Supervised By :
