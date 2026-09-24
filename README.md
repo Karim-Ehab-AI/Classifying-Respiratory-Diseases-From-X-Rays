@@ -320,17 +320,7 @@ In this section, we present examples of the X-ray images for each class that wil
 
 ---
 
-# Demo Video 🎥
-
-Watch this demo video to see how to use the website effectively:
-
-<a href="https://drive.google.com/file/d/165S2Kf6V3nmRi5BGgcnp9tlOHN8B9xWP/view?usp=sharing">
-    <img src="https://img.youtube.com/vi/VIDEO_ID/0.jpg" alt="Demo Video" width="640" height="360">
-</a>
-
----
-
-## Deployment Link 🌐
+## Deployment Website 🌐
 Explore the deployed version of our Chest Disease Detection by X-ray web application [here](https://github.com/fatma2123456/BreatheAI-Website/blob/main/README.md).
 
 ---
@@ -339,7 +329,7 @@ Explore the deployed version of our Chest Disease Detection by X-ray web applica
 Fatma Elzhra ahmed  - Artificial Intelligence Engineering - <b><a href="https://github.com/fatma2123456">fatma2123456</a></b>
 Abdelrahman Mohamed - Computer Science Engineering - <b><a href="https://github.com/AbdelrahmanMohamed252">AbdelrahmanMohamed252</a></b>
 Hanin Mustafa  - Computer Systems Engineering  - <b><a href="https://github.com/HaninMustafa9">HaninMustafa9</a></b>
-Karim Ehab   - Communication and computer engineering - <b><a href="https://github.com/Eng-Karim-Ehab">Eng-Karim-Ehab</a></b>
+Karim Ehab   - Communication and computer engineering - <b><a href="https://github.com/Karim-Ehab-AI">Karim-Ehab-AI</a></b>
 Mahmoud Anas - Computer Science - <b><a href="https://github.com/MahmoudAnas046">MahmoudAnas046</a></b>
  
 Supervised By :
